@@ -2,10 +2,6 @@
 👋 Hi, I’m @SohamChaudhari2004<br>👀 I’m interested in web development, machine learning, and data science.<br>🌱 I’m currently learning advanced machine learning techniques and integrating ML models into web applications.<br>💞️ I’m looking to collaborate on projects related to AI/ML, data analysis, or anything that makes the web smarter.<br>📫 How to reach me: <br>😄 Pronouns: He/Him<br>⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 🐞<br>
 
 
-## My GitHub Contribution Graph
-![GitHub Contribution Graph](https://github.com/users/your-username/contributions)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-chaudhari-5214501b2) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-sohamchaudhari2004s-projects.vercel.app/)
 
