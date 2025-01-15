@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SohamChaudhari2004<br>👀 I’m interested in web development, machine learning, and data science.<br>🌱 I’m currently learning advanced machine learning techniques and integrating ML models into web applications.<br>💞️ I’m looking to collaborate on projects related to AI/ML, data analysis, or anything that makes the web smarter.<br>📫 How to reach me: sohamrc08@gmail.com <br>😄 Pronouns: He/Him<br>⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 🐞<br>
+👋 Hi, I’m @SohamChaudhari2004<br>👀 I’m interested in web development, machine learning, and data science.<br>🌱 I’m currently learning machine learning techniques and integrating ML models into various applications.<br>💞️ I’m looking to collaborate on projects related to AI/ML, data analysis and web development<br>📫 How to reach me: sohamrc08@gmail.com <br>😄<br>⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 🐞<br>
 
 
 ## 🌐 Socials:
